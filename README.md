@@ -18,7 +18,7 @@ A console-based Student Management System developed using Java, JDBC, and MySQL.
 - Java
 - JDBC
 - MySQL
-- Eclipse IDE
+- IntelliJ IDEA
 - Git and GitHub
 
 ## Database
@@ -38,7 +38,7 @@ The system stores the following details:
 ## How to Run
 
 1. Install Java JDK and MySQL.
-2. Open the project in Eclipse.
+2. Open the project in IntelliJ IDEA.
 3. Add the MySQL Connector/J library to the project.
 4. Configure the MySQL username and password in `DBConnection.java`.
 5. Run `Main.java`.
